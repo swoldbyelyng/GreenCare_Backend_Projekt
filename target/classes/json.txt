@@ -1,0 +1,11 @@
+{
+    "username":"",
+    "password":"";
+}
+
+
+Possible exceptions due to no internet connection:
+1. SQLError
+2. Connector == Null
+3. ConnectionException
+4. NullPointerException, "Cannot invoke ______, because "connection" is null.
